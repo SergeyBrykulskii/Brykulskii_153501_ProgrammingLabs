@@ -1,0 +1,15 @@
+C:\Users\Serxio\Desktop\C#\_153501_Brykulskii\_153501_Brykulskii\bin\Release\net5.0\_153501_Brykulskii.exe
+C:\Users\Serxio\Desktop\C#\_153501_Brykulskii\_153501_Brykulskii\bin\Release\net5.0\_153501_Brykulskii.deps.json
+C:\Users\Serxio\Desktop\C#\_153501_Brykulskii\_153501_Brykulskii\bin\Release\net5.0\_153501_Brykulskii.runtimeconfig.json
+C:\Users\Serxio\Desktop\C#\_153501_Brykulskii\_153501_Brykulskii\bin\Release\net5.0\_153501_Brykulskii.runtimeconfig.dev.json
+C:\Users\Serxio\Desktop\C#\_153501_Brykulskii\_153501_Brykulskii\bin\Release\net5.0\_153501_Brykulskii.dll
+C:\Users\Serxio\Desktop\C#\_153501_Brykulskii\_153501_Brykulskii\bin\Release\net5.0\ref\_153501_Brykulskii.dll
+C:\Users\Serxio\Desktop\C#\_153501_Brykulskii\_153501_Brykulskii\bin\Release\net5.0\_153501_Brykulskii.pdb
+C:\Users\Serxio\Desktop\C#\_153501_Brykulskii\_153501_Brykulskii\obj\Release\net5.0\_153501_Brykulskii.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serxio\Desktop\C#\_153501_Brykulskii\_153501_Brykulskii\obj\Release\net5.0\_153501_Brykulskii.AssemblyInfoInputs.cache
+C:\Users\Serxio\Desktop\C#\_153501_Brykulskii\_153501_Brykulskii\obj\Release\net5.0\_153501_Brykulskii.AssemblyInfo.cs
+C:\Users\Serxio\Desktop\C#\_153501_Brykulskii\_153501_Brykulskii\obj\Release\net5.0\_153501_Brykulskii.csproj.CoreCompileInputs.cache
+C:\Users\Serxio\Desktop\C#\_153501_Brykulskii\_153501_Brykulskii\obj\Release\net5.0\_153501_Brykulskii.dll
+C:\Users\Serxio\Desktop\C#\_153501_Brykulskii\_153501_Brykulskii\obj\Release\net5.0\ref\_153501_Brykulskii.dll
+C:\Users\Serxio\Desktop\C#\_153501_Brykulskii\_153501_Brykulskii\obj\Release\net5.0\_153501_Brykulskii.pdb
+C:\Users\Serxio\Desktop\C#\_153501_Brykulskii\_153501_Brykulskii\obj\Release\net5.0\_153501_Brykulskii.genruntimeconfig.cache
