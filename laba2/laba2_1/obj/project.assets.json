@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Serxio\\Desktop\\C#\\laba2\\laba2_1\\laba2_1\\laba2_1.csproj",
+      "projectUniqueName": "C:\\Users\\Serxio\\Desktop\\C#\\laba2\\laba2_1\\laba2_1.csproj",
       "projectName": "laba2_1",
-      "projectPath": "C:\\Users\\Serxio\\Desktop\\C#\\laba2\\laba2_1\\laba2_1\\laba2_1.csproj",
+      "projectPath": "C:\\Users\\Serxio\\Desktop\\C#\\laba2\\laba2_1\\laba2_1.csproj",
       "packagesPath": "C:\\Users\\Serxio\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Serxio\\Desktop\\C#\\laba2\\laba2_1\\laba2_1\\obj\\",
+      "outputPath": "C:\\Users\\Serxio\\Desktop\\C#\\laba2\\laba2_1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Serxio\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -55,12 +55,18 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[5.0.15, 5.0.15]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

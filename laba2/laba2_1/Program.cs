@@ -2,8 +2,28 @@
 
 namespace laba2_1
 {
-    class Program
+
+    public class Program
     {
+        public static short QuadraticEquation(double a, double b, double c)
+        {
+            if (b * b - 4 * a * c > 0)
+            {
+                Console.Write($"Уравнение {a}x^2 + {b}x + {c} = 0, имеет два корня\n");
+                return 2;
+            }
+            else if (b * b - 4 * a * c == 0)
+            {
+                Console.Write($"Уравнение {a}x^2 + {b}x + {c} = 0, имеет один корня\n");
+                return 1;
+            }
+            else
+            {
+                Console.Write($"Уравнение {a}x^2 + {b}x + {c} = 0, не имеет вещественных корней\n");
+                return 0;
+            }
+        }
+
         static void Main(string[] args)
         {
             bool flag = true;
@@ -27,19 +47,8 @@ namespace laba2_1
 
                         Console.Write("\nc:   ");
                         c = Convert.ToDouble(Console.ReadLine());
-                        
-                        if (b * b - 4 * a * c > 0)
-                        {
-                            Console.Write($"Уравнение {a}x^2 + {b}x + c = 0, имеет два корня\n");
-                        } 
-                        else if (b * b - 4 * a * c == 0)
-                        {
-                            Console.Write($"Уравнение {a}x^2 + {b}x + c = 0, имеет один корня\n");
-                        }
-                        else
-                        {
-                            Console.Write($"Уравнение {a}x^2 + {b}x + c = 0, не имеет вещественных корней\n");
-                        }
+
+                        QuadraticEquation(a, b, c);
                         break;
                     case "no":
                         flag = false;

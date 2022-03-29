@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "wgQsSoJoUNo5De4m1f949YgrqzpcQU+2CXZX4PTdp1GcnkMMDgwaMLYZxBXW9qMzh466gt4O/I2oSrWbrllIYw==",
+  "dgSpecHash": "5L3nxr+2N8Lhe71b8olyanSDUQZ2UNOSmTK4kSIMNHlQxP6yioZ5byHk1oAT75NAH3C0W9pFXWwMaTAmP0JfdQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Serxio\\Desktop\\C#\\laba2\\laba2_1\\laba2_1\\laba2_1.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Serxio\\Desktop\\C#\\laba2\\laba2_1\\laba2_1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Serxio\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
   "logs": []
 }

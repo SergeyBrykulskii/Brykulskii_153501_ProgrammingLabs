@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "CVrug2lyKihMINS8Ut2NW2TEJ1h8OpKck0lVUq16JL4kj0ils+lwH8cGxmGcuCp8XeCnWE774dtPvkYPKODKYQ==",
+  "dgSpecHash": "nHhng+pXrw1HvBuFxsV1CNAzfnRP9dZssMbAUC1sQm188m51E9zfz5OugO75FGSlwDPjMn7vk04o0QH6Gynlsw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Serxio\\Desktop\\C#\\_153501_Brykulskii\\_153501_Brykulskii\\_153501_Brykulskii.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Serxio\\Desktop\\C#\\laba1\\_153501_Brykulskii\\_153501_Brykulskii\\_153501_Brykulskii.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Serxio\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
   "logs": []
 }

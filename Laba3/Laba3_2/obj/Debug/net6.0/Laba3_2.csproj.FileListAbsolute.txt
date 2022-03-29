@@ -1,0 +1,15 @@
+C:\Users\Serxio\Desktop\C#\Laba3\Laba3_2\bin\Debug\net6.0\Laba3_2.exe
+C:\Users\Serxio\Desktop\C#\Laba3\Laba3_2\bin\Debug\net6.0\Laba3_2.deps.json
+C:\Users\Serxio\Desktop\C#\Laba3\Laba3_2\bin\Debug\net6.0\Laba3_2.runtimeconfig.json
+C:\Users\Serxio\Desktop\C#\Laba3\Laba3_2\bin\Debug\net6.0\Laba3_2.dll
+C:\Users\Serxio\Desktop\C#\Laba3\Laba3_2\bin\Debug\net6.0\Laba3_2.pdb
+C:\Users\Serxio\Desktop\C#\Laba3\Laba3_2\obj\Debug\net6.0\Laba3_2.csproj.AssemblyReference.cache
+C:\Users\Serxio\Desktop\C#\Laba3\Laba3_2\obj\Debug\net6.0\Laba3_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serxio\Desktop\C#\Laba3\Laba3_2\obj\Debug\net6.0\Laba3_2.AssemblyInfoInputs.cache
+C:\Users\Serxio\Desktop\C#\Laba3\Laba3_2\obj\Debug\net6.0\Laba3_2.AssemblyInfo.cs
+C:\Users\Serxio\Desktop\C#\Laba3\Laba3_2\obj\Debug\net6.0\Laba3_2.csproj.CoreCompileInputs.cache
+C:\Users\Serxio\Desktop\C#\Laba3\Laba3_2\obj\Debug\net6.0\Laba3_2.dll
+C:\Users\Serxio\Desktop\C#\Laba3\Laba3_2\obj\Debug\net6.0\refint\Laba3_2.dll
+C:\Users\Serxio\Desktop\C#\Laba3\Laba3_2\obj\Debug\net6.0\Laba3_2.pdb
+C:\Users\Serxio\Desktop\C#\Laba3\Laba3_2\obj\Debug\net6.0\Laba3_2.genruntimeconfig.cache
+C:\Users\Serxio\Desktop\C#\Laba3\Laba3_2\obj\Debug\net6.0\ref\Laba3_2.dll

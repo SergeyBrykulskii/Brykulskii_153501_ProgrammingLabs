@@ -5,7 +5,11 @@ VisualStudioVersion = 16.0.32126.315
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "laba2_1", "laba2_1\laba2_1.csproj", "{2CA4F287-3E5E-4F2C-BE73-82D279F2D39B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "laba2_2", "laba2_2\laba2_2.csproj", "{3E12E010-69A9-4560-BA1B-087C3C2E3579}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "laba2_2", "laba2_2\laba2_2.csproj", "{3E12E010-69A9-4560-BA1B-087C3C2E3579}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "laba2_1_test", "laba2_1_test\laba2_1_test.csproj", "{04B12630-36D7-4355-BCA6-C7AAB7075B24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "laba2_2_tast", "laba2_2_tast\laba2_2_tast.csproj", "{93722633-E4FC-460A-AF44-E4101A6E6B17}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{3E12E010-69A9-4560-BA1B-087C3C2E3579}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3E12E010-69A9-4560-BA1B-087C3C2E3579}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3E12E010-69A9-4560-BA1B-087C3C2E3579}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04B12630-36D7-4355-BCA6-C7AAB7075B24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04B12630-36D7-4355-BCA6-C7AAB7075B24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04B12630-36D7-4355-BCA6-C7AAB7075B24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04B12630-36D7-4355-BCA6-C7AAB7075B24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93722633-E4FC-460A-AF44-E4101A6E6B17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93722633-E4FC-460A-AF44-E4101A6E6B17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93722633-E4FC-460A-AF44-E4101A6E6B17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93722633-E4FC-460A-AF44-E4101A6E6B17}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
