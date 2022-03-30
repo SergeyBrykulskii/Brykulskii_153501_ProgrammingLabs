@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Laba3_3
 {
-    internal class DateService
+    public class DateService
     {
 
         public static DateOnly GetDate()
@@ -32,7 +32,8 @@ namespace Laba3_3
 
         public static int GetDaysSpan(int day, int month, int year)
         {
-            return Math.Abs(DateOnly.Parse(DateTime.Today.ToShortDateString()).DayNumber);
+            DateOnly CurrDay = new (year, month, day);
+            return Math.Abs(DateOnly.Parse(DateTime.Today.ToShortDateString()).DayNumber - CurrDay.DayNumber);
         }
     }
 }
