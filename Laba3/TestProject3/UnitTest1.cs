@@ -1,5 +1,6 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Laba3_3;
+using System;
 
 namespace TestProject3
 {
@@ -9,7 +10,11 @@ namespace TestProject3
         [TestMethod]
         public void TestMethod1()
         {
-            Assert.AreEqual(1, DateService.GetDaysSpan(29, 3, 2022));
+            int num;
+            DateOnly CurrDay = new(2022, 3, 29);
+            num = Math.Abs(DateOnly.Parse(DateTime.Today.ToShortDateString()).DayNumber - CurrDay.DayNumber);
+            
+            Assert.AreEqual(num, DateService.GetDaysSpan(29, 3, 2022));
         }
     }
 }
