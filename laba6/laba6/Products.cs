@@ -6,23 +6,20 @@ using System.Threading.Tasks;
 
 namespace laba6
 {
-    abstract class Products
+    public abstract class Products
     {
         public string Name { get; set; }
         public double Price { get; set; }
-        public abstract double Weight { get; set; }
-        public Products(string name, int price, int weight)
+        public Products(string name, int price)
         {
             Name = name;
             Price = price;
-            Weight = weight;
         }
-        public abstract void Show();
-
+        public abstract bool IsGood();
         public virtual void Print()
         {
-            Console.WriteLine("Продукт: " + this.Name);
-            Console.WriteLine("Цена: " + Price);
+            Console.WriteLine("Товар: {0}", Name);
+            Console.WriteLine("Цена: {0}", Price);
         }
     }
 }

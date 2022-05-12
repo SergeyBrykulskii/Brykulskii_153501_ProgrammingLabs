@@ -6,19 +6,34 @@ using System.Threading.Tasks;
     
 namespace laba6
 {
-    abstract class Food : Products
+    public sealed class Food : Products
     {
-        public Food(string name, int price, int weight) : base(name, price, weight)
+        public double Weight { get; set; }
+        public DateTime Date { get; set; }
+        public Food(string name, int price, double weight, int year, int month, int day) : base(name, price) 
         {
+            Weight = weight;
+            Date = new DateTime(year, month, day);
         }
-
-        public override void Show()
+        public override bool IsGood()
+        {
+            
+            if (Date > DateTime.Today)
+            {
+                Console.WriteLine("Продукт свежий");
+                return true;
+            }
+            else
+            {
+                Console.WriteLine("Продукт просрочен");
+                return false;
+            }
+        }
+        public override void Print()
         {
             Console.WriteLine("Название: {0}", Name);
             Console.WriteLine("Цена: {0}", Price);
             Console.WriteLine("Вес: {0}", Weight);
         }
-        
-        
     }
 }
