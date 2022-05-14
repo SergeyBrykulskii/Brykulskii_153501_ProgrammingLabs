@@ -1,0 +1,15 @@
+C:\Users\Serxio\Desktop\C#\laba7\laba7\bin\Debug\net6.0\laba7.exe
+C:\Users\Serxio\Desktop\C#\laba7\laba7\bin\Debug\net6.0\laba7.deps.json
+C:\Users\Serxio\Desktop\C#\laba7\laba7\bin\Debug\net6.0\laba7.runtimeconfig.json
+C:\Users\Serxio\Desktop\C#\laba7\laba7\bin\Debug\net6.0\laba7.dll
+C:\Users\Serxio\Desktop\C#\laba7\laba7\bin\Debug\net6.0\laba7.pdb
+C:\Users\Serxio\Desktop\C#\laba7\laba7\obj\Debug\net6.0\laba7.csproj.AssemblyReference.cache
+C:\Users\Serxio\Desktop\C#\laba7\laba7\obj\Debug\net6.0\laba7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serxio\Desktop\C#\laba7\laba7\obj\Debug\net6.0\laba7.AssemblyInfoInputs.cache
+C:\Users\Serxio\Desktop\C#\laba7\laba7\obj\Debug\net6.0\laba7.AssemblyInfo.cs
+C:\Users\Serxio\Desktop\C#\laba7\laba7\obj\Debug\net6.0\laba7.csproj.CoreCompileInputs.cache
+C:\Users\Serxio\Desktop\C#\laba7\laba7\obj\Debug\net6.0\laba7.dll
+C:\Users\Serxio\Desktop\C#\laba7\laba7\obj\Debug\net6.0\refint\laba7.dll
+C:\Users\Serxio\Desktop\C#\laba7\laba7\obj\Debug\net6.0\laba7.pdb
+C:\Users\Serxio\Desktop\C#\laba7\laba7\obj\Debug\net6.0\laba7.genruntimeconfig.cache
+C:\Users\Serxio\Desktop\C#\laba7\laba7\obj\Debug\net6.0\ref\laba7.dll
