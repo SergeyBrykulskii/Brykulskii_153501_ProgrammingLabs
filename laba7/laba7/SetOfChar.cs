@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace laba7
 {
-    class SetOfChar
+    public class SetOfChar
     {
         private char[] set;
         private char[] Set 
